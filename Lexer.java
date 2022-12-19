@@ -175,6 +175,7 @@ public class Lexer {
 						default:
 							return false;
 					} // end of switch
+					break;
 				case 9:
 					switch (c) {
 						case '0':
